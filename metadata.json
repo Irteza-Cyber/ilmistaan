@@ -1,0 +1,6 @@
+{
+  "name": "UniDiary — Academic Diary & Student Portal",
+  "description": "Comprehensive digital university pocket diary, academic schedule organizer, syllabus tracker, and AI tutor for higher education students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
